@@ -1,4 +1,4 @@
-class gitprogram
+class jenkinsprog
 {
 	public static void main(String[] args)	
 	{
